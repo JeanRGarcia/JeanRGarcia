@@ -1,5 +1,12 @@
-## Hi there 👋
+## Jean Ribeiro Garcia
+Desenvolvedor back-end em formação | Java · Python · SQL · Git
 
+4 anos em gestão de projetos de TI.
+Agora construindo a base técnica para codar o que antes eu garantia que funcionava.
+
+📍 Curitiba, PR
+📩 jeanrgarcia@gmail.com
+🔗 linkedin.com/in/jean-ribeiro-garcia-305326142
 <!--
 **JeanRGarcia/JeanRGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
