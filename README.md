@@ -1,11 +1,14 @@
 ## Jean Ribeiro Garcia
+
 Desenvolvedor back-end em formação | Java · Python · SQL · Git
 
+---
 
-4 anos em gestão de projetos de TI.
+Quase 4 anos em gestão de projetos de TI.
 
 Agora construindo a base técnica para codar o que antes eu garantia que funcionava.
 
+---
 
 📍 Curitiba, PR
 
